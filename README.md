@@ -20,4 +20,4 @@ This repository contains the SQL Server schema for a Bus Management System devel
 
 ## 📌 Author
 
-Created by [Your Name]
+Created by Ansh Kumar
